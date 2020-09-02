@@ -1,15 +1,5 @@
-github profile markdown generator logo
-Github Profile README Generator
- Star this repo 1292
- Fork on Github 159
- back to edit
- copy-markdown
- download
- preview
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A developer full-stack always looking for improvement</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasazeve17" alt="lucasazeve17" /> </p>
 
 - 📫 How to reach me **lucasazeve17@outlook.com**
 
@@ -20,7 +10,3 @@ Github Profile README Generator
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lucas-azevedo-da-silva-2204a814b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/lucas-azevedo-da-silva-2204a814b/" height="30" width="30" /></a>
 </p>
-About
-Addons
-Support
-Developed in India 🇮🇳
