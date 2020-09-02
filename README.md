@@ -10,3 +10,6 @@
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lucas-azevedo-da-silva-2204a814b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/lucas-azevedo-da-silva-2204a814b/" height="30" width="30" /></a>
 </p>
+<p align="center">
+<a href="https://stackoverflow.com/users/14209978" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14209978" height="30" width="30" /></a>
+</p>
