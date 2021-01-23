@@ -1,9 +1,7 @@
 ### 👋 Hi there, I'm Lucas!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasazeve17&show_icons=true&theme=dark" alt="lucasazeve17" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasazeve17&show_icons=true&theme=dark" alt="lucasazeve17" /></p>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasazeve17&langs_count=9&layout=compact&hide=HASKELL,PYTHON&text_colorFFFFFF)](https://github.com/lucasazeve17/github-readme-stats&theme=dracula">
-</p>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-azevedo-da-silva/)](https://www.linkedin.com/in/lucas-azevedo-da-silva-2204a814b)
@@ -24,6 +22,13 @@
 <img align="left" alt="Graphql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <br />
 <br />
+
+---
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasazeve17&langs_count=9&layout=compact&hide=HASKELL,PYTHON&text_colorFFFFFF)](https://github.com/lucasazeve17/github-readme-stats&theme=dracula">
+</p>
+
 
 
 
