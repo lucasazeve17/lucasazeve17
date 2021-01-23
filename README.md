@@ -1,5 +1,8 @@
 ### 👋 Hi there, I'm Lucas!
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasazeve17&show_icons=true&theme=dark" alt="lucasazeve17" /></p>
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-azevedo-da-silva/)](https://www.linkedin.com/in/lucas-azevedo-da-silva-2204a814b)
 
 ### Languages and Tools:
@@ -19,10 +22,3 @@
 <br />
 <br />
 
----
-<p align="center"> 
-  <img align="left" alt="lucasazeve17" src="https://github-readme-stats.codestackr.vercel.app/api?username=lucasazeve17&show_icons=true&hide_border=true&theme=dark" />
-</p>
-<p align="center">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasazeve17&langs_count=9&layout=compact&hide=HASKELL,PYTHON&text_colorFFFFFF)](https://github.com/lucasazeve17/github-readme-stats&theme=dracula">
-</p>
