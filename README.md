@@ -2,7 +2,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasazeve17&show_icons=true&theme=dark" alt="lucasazeve17" />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoOficial&langs_count=9&layout=compact&hide=HASKELL,PYTHON&text_colorFFFFFF)](https://github.com/BernardoOficial/github-readme-stats&theme=dracula">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasazeve17&langs_count=9&layout=compact&hide=HASKELL,PYTHON&text_colorFFFFFF)](https://github.com/lucasazeve17/github-readme-stats&theme=dracula">
 </p>
 
 
